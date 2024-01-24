@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['16362439088', 'kinfux digital', true],
-  ['254110377776', 'kinflux digital', true], 
+  ['94761681904', 'sathmin digital', true],
+  ['94761681904', 'sathmin digital', true], 
   ['556199740980'] 
 ] //Number of owners
 
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'kinflux bot god'
 global.premium = 'true'
 global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
+global.author = 'sathmin digital' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28\n' 
 global.dygp = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
